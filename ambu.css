@@ -1,0 +1,117 @@
+.z {
+  background-color: black;
+}
+.y {
+  background-color: white;
+}
+.x {
+  border: 1px solid black;
+}
+.w {
+  border: 6px solid white;
+}
+.v {
+  position: relative;
+}
+.u {
+  margin: auto;
+}
+.t {
+  width: 50px;
+  height: 50px;
+}
+.s {
+  width: 20px;
+  height: 20px;
+}
+.r {
+  border-radius: 50%;
+}
+.a {
+  height: 86px;
+  width: 188px;
+  top: 300px;
+  left: 3px;
+  border-radius: 15px;
+}
+.b {
+  height: 70px;
+  width: 100px;
+  left: 90px;
+  top: 15px;
+  border-radius: 15px;
+}
+.g {
+  width: 50px;
+  height: 20px;
+  transform: rotate(19deg);
+  top: 220.3px;
+  left: 107px;
+}
+.h {
+  height: 70px;
+  width: 140px;
+  top: 140px;
+  right: 4px;
+  border-radius: 12px;
+}
+.l {
+  width: 66px;
+  height: 11px;
+  transform: rotate(60deg);
+  top: 92px;
+  left: 72px;
+  border-radius: 6px;
+}
+.m {
+  width: 70px;
+  height: 20px;
+  transform: rotate(107deg);
+  top: 82px;
+  right: 73px;
+  border-radius: 11px;
+}
+.c {
+  bottom: 25px;
+  right: 40px;
+}
+.d {
+  top: 15px;
+  left: 15px;
+}
+.e {
+  bottom: 85px;
+  left: 80px;
+}
+.i {
+  width: 40px;
+  height: 15px;
+  top: 40px;
+  left: 18px;
+  transform: rotate(90deg);
+}
+.j {
+  width: 40px;
+  height: 15px;
+  top: 25px;
+  left: 18px;
+}
+.k {
+  width: 66px;
+  height: 40px;
+  left: 86px;
+  bottom: 16px;
+  border-radius: 5px;
+}
+.n {
+  width: 90px;
+  height: 25px;
+  border-radius: 13px;
+  right: 5px;
+}
+.o {
+  width: 17px;
+  height: 17px;
+  left: 36px;
+  top: 4px;
+}
